@@ -1,0 +1,17 @@
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\TestsNewTalents.deps.json
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\TestsNewTalents.runtimeconfig.json
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\TestsNewTalents.runtimeconfig.dev.json
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\TestsNewTalents.dll
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\TestsNewTalents.pdb
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\NewTalents.dll
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\bin\Debug\netcoreapp2.1\NewTalents.pdb
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.csprojAssemblyReference.cache
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.csproj.CoreCompileInputs.cache
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.AssemblyInfoInputs.cache
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.AssemblyInfo.cs
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.csproj.CopyComplete
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.dll
+C:\dio-git-e-git-hub\NewTalents\TestsNewTalents\obj\Debug\netcoreapp2.1\TestsNewTalents.pdb

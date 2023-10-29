@@ -1,0 +1,11 @@
+C:\dio-git-e-git-hub\NewTalents\NewTalents\bin\Debug\netcoreapp2.1\NewTalents.deps.json
+C:\dio-git-e-git-hub\NewTalents\NewTalents\bin\Debug\netcoreapp2.1\NewTalents.runtimeconfig.json
+C:\dio-git-e-git-hub\NewTalents\NewTalents\bin\Debug\netcoreapp2.1\NewTalents.runtimeconfig.dev.json
+C:\dio-git-e-git-hub\NewTalents\NewTalents\bin\Debug\netcoreapp2.1\NewTalents.dll
+C:\dio-git-e-git-hub\NewTalents\NewTalents\bin\Debug\netcoreapp2.1\NewTalents.pdb
+C:\dio-git-e-git-hub\NewTalents\NewTalents\obj\Debug\netcoreapp2.1\NewTalents.csprojAssemblyReference.cache
+C:\dio-git-e-git-hub\NewTalents\NewTalents\obj\Debug\netcoreapp2.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\dio-git-e-git-hub\NewTalents\NewTalents\obj\Debug\netcoreapp2.1\NewTalents.AssemblyInfoInputs.cache
+C:\dio-git-e-git-hub\NewTalents\NewTalents\obj\Debug\netcoreapp2.1\NewTalents.AssemblyInfo.cs
+C:\dio-git-e-git-hub\NewTalents\NewTalents\obj\Debug\netcoreapp2.1\NewTalents.dll
+C:\dio-git-e-git-hub\NewTalents\NewTalents\obj\Debug\netcoreapp2.1\NewTalents.pdb
